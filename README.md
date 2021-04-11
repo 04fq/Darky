@@ -41,7 +41,7 @@ The Darky Tool May print (API count exceeded - Increase Quota with Membership) B
 * cd Darky
 * pip3 install -r requirement.txt
 * python3 Darklookup.py
-## Termux 👽
+## Android (Termux) 👽
 * git clone https://github.com/04fq/Darky.git
 * cd Darky
 * pip install -r requirement.txt
